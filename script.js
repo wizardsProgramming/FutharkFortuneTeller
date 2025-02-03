@@ -169,14 +169,23 @@ For a deeper connection to the energy of Kenaz, you might consider incorporating
     // Add more runes here
 ];
 
+
+
 document.getElementById("drawRune").addEventListener("click", function() {
+    // Select a random rune from the array
     const rune = runes[Math.floor(Math.random() * runes.length)];
     const fortune = rune.meaning;
-    
+
+    // Update the rune display with the selected rune's details
     document.getElementById("runeDisplay").innerHTML = `
         <h2>${rune.name}</h2>
         <img class="rune-img" src="./images/${rune.name.toLowerCase()}.jpg" alt="${rune.name} Rune" width="100">
         <p>${fortune}</p>
     `;
-    document.querySelector('.container').classList.add('hide');
+
+    // Scroll smoothly to the rune display section
+    document.getElementById("runeDisplay").scrollIntoView({
+        behavior: "smooth",
+        block: "start"
+    });
 });
