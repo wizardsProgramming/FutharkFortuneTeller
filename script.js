@@ -1,55 +1,5 @@
 const runes = [
     {
-        name: "Fehu",
-        meaning: 
-            `The Fehu rune indicates a period of financial growth and material success. Your efforts are aligning to bring prosperity into your life. This is a time to focus on your talents and resources, utilizing them to their fullest potential. Be mindful of the flow of wealth; ensure it circulates and doesn't become stagnant. Embrace opportunities that come your way, as they are stepping stones to greater abundance.
-
-Remember, true wealth encompasses not only material gain but also the richness of experiences and relationships. Maintain balance and gratitude as you navigate this prosperous phase.
-
-For a deeper connection to the energy of Fehu, you might consider incorporating symbols of this rune into your daily life, such as wearing a Fehu rune necklace.`
-    },
-    {
-        name: "Uruz",
-        meaning: 
-            `The Uruz rune signifies a surge of inner strength and vitality entering your life. This is a time to harness your physical and emotional resilience to overcome challenges and pursue your goals with vigor. Embrace the transformative energy around you, as it offers opportunities for personal growth and success. Trust in your abilities and the natural flow of life to guide you toward prosperity.
-
-For a deeper connection to the energy of Uruz, you might consider incorporating symbols of this rune into your daily life, such as wearing a Uruz rune pendant.`
-        
-    },
-    {
-        name: "Thurisaz",
-        meaning:
-           ` The Thurisaz rune indicates that you are encountering significant challenges that require strength and resilience. These obstacles may appear formidable, but they are opportunities for personal growth and transformation. Embrace the energy of Thurisaz to confront these challenges head-on, using your inner power to navigate through them. Remember, like the thorn, these difficulties can lead to greater wisdom and strength.
-
-For a deeper connection to the energy of Thurisaz, you might consider incorporating symbols of this rune into your daily life, such as wearing a Thurisaz rune pendant.`
-        
-    },
-    {
-        name: "Ansuz",
-        meaning: 
-         `The Ansuz rune indicates a period of heightened communication and intellectual activity. You may receive messages or insights that offer clarity and guidance. This is an opportune time to express yourself, whether through speaking, writing, or other forms of communication. Trust in your ability to convey your thoughts effectively and to understand the messages being presented to you.
-
-For a deeper connection to the energy of Ansuz, you might consider incorporating symbols of this rune into your daily life, such as wearing an Ansuz rune pendant.`
-        
-    },
-    {
-        name: "Raidho",
-        meaning: 
-            `The appearance of the Raidho rune in your reading signifies a period of movement and transition. This may manifest as a physical journey, such as travel or relocation, or as a significant phase in your personal or spiritual development. Embrace the changes ahead, for they are integral to your growth and evolution. Trust in the natural rhythms of life, and allow yourself to be guided by the path that unfolds before you.
-
-For a deeper connection to the energy of Raidho, you might consider incorporating symbols of this rune into your daily life, such as wearing a Raidho rune pendant.`
-        
-    },
-    {
-        name: "Kenaz",
-        meaning: 
-            `The appearance of the Kenaz rune in your reading signifies a period of enlightenment and creative inspiration. You are on the brink of a revelation; that which was hidden is now coming to light, revealing secrets and offering newfound understanding. This is an opportune time to embrace your creative passions and seek out knowledge, as the universe supports your intellectual and artistic endeavors. 
-
-
-For a deeper connection to the energy of Kenaz, you might consider incorporating symbols of this rune into your daily life, such as wearing a Kenaz rune pendant.`
-        
-    },
-    {
         name: "Gebo",
         meaning: [
             `The energies of Gebo speak of balance and harmony. You are being invited to focus on your relationships, whether personal or professional. The gifts you give and receive hold significant meaning at this moment. This is a time of partnership, where mutual respect and understanding will pave the way for future success. Take care to give freely but also accept with an open heart. A gift, either material or spiritual, is coming your way—be open to the blessings that are arriving. In all things, find balance between giving and receiving.`
